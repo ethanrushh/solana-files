@@ -1,0 +1,8 @@
+{
+  chainId: 101,
+  address: “tknDzs2MnjVss6RfsuhFo4iJQgtM9AVkXQiQKfYsXHZ”,
+  symbol: “TKN”,
+  name: “Test Token”,
+  decimals: 18,
+  logoURI: “https://raw.githubusercontent.com/ethanrushh/solana-files/main/Circle.png"
+}
